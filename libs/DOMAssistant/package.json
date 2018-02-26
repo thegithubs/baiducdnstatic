@@ -1,0 +1,21 @@
+{
+    "name": "DOMAssistant",
+    "filename": "DOMAssistant.js",
+    "version": "2.8.2",
+    "description": "OMAssistant也是一个很不错的JS库,它提供了一些类似jQuery的功能,比如CSS 选择器、事件以及一些DOM操作。",
+    "homepage": "http://www.domassistant.com/",
+    "keywords": ["DOMAssistant","js","DOM操作","ajax"],
+    "maintainers": [
+    {
+      "name": "thegithubs",
+      "web": "https://github.com/thegithubs",
+      "mail": "thegithubs"
+    }
+    ],
+    "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/thegithubs/DOMAssistant.js"
+    }
+    ]
+  }
